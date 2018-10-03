@@ -1,0 +1,41 @@
+.sale-header{
+  background-color: #2d2d2d;
+  padding: 15px;
+  color: #fffafa;
+  text-align: center;
+}
+
+#sale-link{
+  margin-left: 30px;
+  color: #fffafa;
+  text-decoration: underline;
+}
+
+#sale-offer{
+  font-weight: bold;
+  font-size: 1.4em;
+}
+
+.ui.topmenu.menu{
+  font-family: "Khula", sans-serif;
+  font-size: 13px;
+  border-top: none;
+
+}
+
+.ui.fitted.logo.item{
+  width: 200px;
+  align: left;
+}
+
+#cow-chop{
+ margin-left: 130px;
+}
+
+.footer-background {
+  background-color: #D5D5D5;
+  color: #2d2d2d;
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+
